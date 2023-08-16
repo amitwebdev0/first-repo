@@ -1,2 +1,2 @@
 # first-repo
-This is a Project
+This is a Project.
